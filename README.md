@@ -16,7 +16,7 @@
 - Security Automation Scripts
 
 ## 📫 Contact
-- Email: ajay.kumar.dev@gmail.com
+- Email: ajukingrajput@gmail.com
 
 <!--
 **AJAYRAJPUT08/AJAYRAJPUT08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
